@@ -23,3 +23,8 @@ Deveria ficar algo parecido com a imagem:
 
 ![alt text](img/resistorExample.png)
 
+# Documentos de Referência
+[Simulação](design/analog_voltage_sensor.asc)
+[Esquemático](design/analog_voltage_sensor.pdf)
+
+![Simulação](img/simulation.png)
