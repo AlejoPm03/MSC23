@@ -25,6 +25,6 @@ Deveria ficar algo parecido com a imagem:
 
 # Documentos de Referência
 [Simulação](design/analog_voltage_sensor.asc)
-[Esquemático](design/analog_voltage_sensor.pdf)
+[Esquemático](exports/schematic.pdf/)
 
 ![Simulação](img/simulation.png)
