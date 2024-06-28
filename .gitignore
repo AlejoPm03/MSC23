@@ -27,3 +27,16 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Build files
+firmware/build/**
+
+# Autosave
+~*
+\#*\#
+
+# Raw files
+*.raw
+
+# Log files
+*.log
